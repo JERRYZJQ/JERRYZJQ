@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JERRYZJQ
+- 👋 Hi, I’m @Masterj
 - 👀 I’m interested in Hearts of Iron 4
 - 🌱 I’m currently learning CSE and Physics @ The Ohio State Uni
 - 💞️ I’m looking to collaborate on ...
